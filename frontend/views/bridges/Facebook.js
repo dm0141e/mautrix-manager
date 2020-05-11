@@ -24,7 +24,7 @@ import Button from "../components/Button.js"
 import Spinner from "../components/Spinner.js"
 
 const bridgeOpts = {
-    url: "https://facebook.com",
+    url: "https://messenger.com",
     domain: "facebook.com",
     cookies_keys: ["xs", "c_user"],
 }
